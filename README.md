@@ -29,6 +29,5 @@ Contiene las siguientes secciones:
 ##    3. Objetivo del proyecto.
 
 Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://stately-sundae-2bf232.netlify.app/)
-[GitHub Pages](https://pages.github.com/).
 
 
